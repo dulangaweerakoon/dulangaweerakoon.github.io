@@ -12,4 +12,4 @@ Supporting real-time, on-device execution of multimodal referring instruction co
 
 [Download paper here](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8621&context=sis_research)
 
-Recommended citation: Weerakoon, D., Subbaraju, V., Tran, T. and Misra, A., 2022. Cosm2ic: Optimizing real-time multi-modal instruction comprehension. IEEE Robotics and Automation Letters, 7(4), pp.10697-10704.
+<!-- Recommended citation: Weerakoon, D., Subbaraju, V., Tran, T. and Misra, A., 2022. Cosm2ic: Optimizing real-time multi-modal instruction comprehension. IEEE Robotics and Automation Letters, 7(4), pp.10697-10704. -->
