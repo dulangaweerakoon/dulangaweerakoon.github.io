@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="https://dulangaweerakoon/images/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://dulangaweerakoon/images/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://dulangaweerakoon/images/cv.pdf">Download PDF</a>.</p>
+<object data="https://dulangaweerakoon.com/images/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://dulangaweerakoon.com/images/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://dulangaweerakoon.com/images/cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
