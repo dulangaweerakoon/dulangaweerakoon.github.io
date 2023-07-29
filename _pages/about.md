@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am a fifth-year PhD student in Computer Science, conducting research under the guidance of Prof. Archan Misra and co-advised by Dr. Vigneshwaran Subbaraju at the School of Computing and Information Systems, Singapore Management University (SMU). Currently, I hold the position of PhD Research Intern at IHPC, A*STAR Singapore.
 
-I am fifth-year PhD student in Computer Science, advised by Prof. Archan Misra and co-advised by Dr. Vigneshwaran Subbaraju, at School of Computing and Information Systems of Singapore Management University (SMU). Currently, I am working as a PhD Research Intern at IHPC, A*STAR Singapore. 
+My primary research interests revolve around multi-modal sensing for Human-AI Collaboration on pervasive devices, with a strong emphasis on achieving low energy consumption, minimal latency, and efficient computational requirements. Specifically, my current focus lies in the development of human instruction comprehension algorithms capable of processing input from diverse modalities such as vision, language, and human gestures. To this end, I have proposed various fusing techniques and optimization strategies that aim to leverage these modalities to enhance instruction comprehension accuracy and concurrently reduce latency and energy overheads, making them suitable for resource-constrained pervasive devices.
 
-My current research interests primarily includes, Multi-modal sensing for Human-AI Collaboration on pervasive devices with low energy, latency and computational requirements. Primarily, I am currently working on developing human instruction comprehension algorithms, which can accept vision, language and human gestures as input modalities. My work has proposed various fusing techniques and optimization strategies to utilize these modalities to either improve instruction comprehension accuracy or reduce latency and energy overheads while achieving comparable accuracy even on resource-constrained pervasive devices.
-
-Prior to my PhD studies, I completed my Bachelors in Electronics and Telecommunication Engineering from University of Moratuwa, Sri Lanka. Then, I worked at Singapore Management University as a Research Engineer, advised by Prof. Archan Misra for a year.
+Prior to embarking on my PhD journey, I earned a Bachelors's degree in Electronics and Telecommunication Engineering from the esteemed University of Moratuwa, Sri Lanka. Following that, I spent a year as a Research Engineer at Singapore Management University, where I worked under the mentorship of Prof. Archan Misra.
 
 
 News
