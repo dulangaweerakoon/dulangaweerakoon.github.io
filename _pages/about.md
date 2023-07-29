@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a fifth-year PhD student in Computer Science, conducting research under the guidance of Prof. Archan Misra and co-advised by Dr. Vigneshwaran Subbaraju at the School of Computing and Information Systems, Singapore Management University (SMU). Currently, I hold the position of PhD Research Intern at IHPC, A*STAR Singapore.
+<p style="text-align: justify;">
+I am a fifth-year PhD student in Computer Science, conducting research under the guidance of Prof. Archan Misra and co-advised by Dr. Vigneshwaran Subbaraju at the School of Computing and Information Systems, Singapore Management University (SMU). Currently, I hold the position of PhD Research Intern at IHPC, A*STAR Singapore. <p>
 
 My primary research interests revolve around multi-modal sensing for Human-AI Collaboration on pervasive devices, with a strong emphasis on achieving low energy consumption, minimal latency, and efficient computational requirements. Specifically, my current focus lies in the development of human instruction comprehension algorithms capable of processing input from diverse modalities such as vision, language, and human gestures. To this end, I have proposed various fusing techniques and optimization strategies that aim to leverage these modalities to enhance instruction comprehension accuracy and concurrently reduce latency and energy overheads, making them suitable for resource-constrained pervasive devices.
 
