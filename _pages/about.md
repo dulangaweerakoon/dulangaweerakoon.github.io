@@ -20,6 +20,12 @@ Prior to embarking on my PhD journey, I earned a Bachelors's degree in Electroni
 News
 ===
 
+|  |  |
+| ------:| -----------:|
+| <b>July 2023 </b>   | I was offered Presidential Doctoral Fellowship in Computing at SMU, which is provided to exceptionally qualified students at SMU based on their research outcomes. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
  <table width="10%"  cellspacing="5" align="center" > 
   <tr> 
    <td> <b>July 2023 </b> </td>
