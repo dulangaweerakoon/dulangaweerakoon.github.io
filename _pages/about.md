@@ -20,7 +20,7 @@ Prior to embarking on my PhD journey, I earned a Bachelors's degree in Electroni
 News
 ===
 
- <table border="0"> 
+ <table width="10%"  cellspacing="5" align="center" > 
   <tr> 
    <td> <b>July 2023 </b> </td>
    <td> I was offered Presidential Doctoral Fellowship in Computing at SMU, which is provided to exceptionally qualified students at SMU based on their research outcomes. </td>
@@ -52,16 +52,3 @@ News
   </tr>
 
  </table>
-
-
-  <!-- <b>[July 2023]</b> I was offered Presidential Doctoral Fellowship in Computing at SMU, which is provided to exceptionally qualified students at SMU based on their research outcomes. 
-
-  <b>[January 2023]</b> I was offered a PhD Research Attachment at Institute of High Performance Computing (IHPC), A*STAR, Singapore
-
-  <b>[December 2022]</b> Our Paper titled, "Demonstrating Multi-modal Human Instruction Comprehension with AR Smart Glass" was accepted as a demo paper at COMSNETS 2023.
-
-  <b>[July 2022]</b> Our IROS Paper titled, "COSM2IC: Optimizing Real-time Multi-Modal Instruction Comprehension" was accepted to be a journal at IEEE Robotics and Automation Letters (RA-L).
-
-  <b>[June 2022]</b> Our Paper titled, "SoftSkip: Empowering Multi-Modal Dynamic Pruning for Single-Stage Referring Comprehension" was accepted to ACM Multimedia 2022.
-
-  <b>[June 2022]</b> Our Paper titled, "COSM2IC: Optimizing Real-time Multi-Modal Instruction Comprehension" was accepted to IROS 2022. -->
