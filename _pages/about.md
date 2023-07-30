@@ -19,36 +19,69 @@ Prior to embarking on my PhD journey, I earned a Bachelors's degree in Electroni
 
 News
 ===
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+    }
 
- <table width="10%"  cellspacing="0" cellpadding="0" align="center" > 
-  <tr> 
-   <td> <b>July 2023 </b> </td>
-   <td> I was offered Presidential Doctoral Fellowship in Computing at SMU, which is provided to exceptionally qualified students at SMU based on their research outcomes. </td>
-  </tr>
+    .bullet-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      max-height: 300px; /* Set the maximum height for the scrollable list */
+      overflow-y: auto; /* Add vertical scroll when list exceeds max height */
+    }
 
-   <tr> 
-   <td> <b>January 2023 </b> </td>
-   <td> I was offered a PhD Research Attachment at Institute of High Performance Computing (IHPC), A*STAR, Singapore </td>
-  </tr>
+    .bullet-list li {
+      display: flex; /* Use flexbox layout */
+      margin-bottom: 15px;
+    }
 
-  <tr> 
-   <td> <b>December 2022 </b> </td>
-   <td> Our Paper titled, "Demonstrating Multi-modal Human Instruction Comprehension with AR Smart Glass" was accepted as a demo paper at COMSNETS 2023. </td>
-  </tr>
+    .bullet-list li strong {
+      font-weight: bold;
+      min-width: 100px;
+      margin-right: 100px; /* Increased indentation for the date */
+    }
 
-   <tr> 
-   <td> <b>July 2022 </b> </td>
-   <td> Our Paper titled, "Demonstrating Multi-modal Human Instruction Comprehension with AR Smart Glass" was accepted as a demo paper at COMSNETS 2023. </td>
-  </tr>
+    .bullet-list li .description {
+      flex: 1; /* Expand to fill remaining space */
+      margin-top: 5px;
+      margin-left: 25px; /* Increased indentation for the description */
+      min-width: 300px; /* Adjust the min-width based on the longest description text */
+    }
 
-  <tr> 
-   <td> <b>June 2022 </b> </td>
-   <td> Our Paper titled, "SoftSkip: Empowering Multi-Modal Dynamic Pruning for Single-Stage Referring Comprehension" was accepted to ACM Multimedia 2022. </td>
-  </tr>
+    .bullet-list li:last-child {
+      margin-bottom: 0;
+    }
+  </style>
+<body>
+  <ul class="bullet-list">
+    <li>
+      <strong>Jul 2023</strong>
+      <span class="description">I was offered Presidential Doctoral Fellowship in Computing at SMU, which is provided to exceptionally qualified students at SMU based on their research outcomes.</span>
+    </li>
+    <li>
+      <strong>Jan 2023</strong>
+      <span class="description">I was offered a PhD Research Attachment at Institute of High Performance Computing (IHPC), A*STAR, Singapore</span>
+    </li>
+    <li>
+      <strong>Dec 2022</strong>
+      <span class="description">Our Paper titled, "Demonstrating Multi-modal Human Instruction Comprehension with AR Smart Glass" was accepted as a demo paper at COMSNETS 2023.</span>
+    </li>
+    <li>
+      <strong>Jul 2022</strong>
+      <span class="description">Our Paper titled, "Demonstrating Multi-modal Human Instruction Comprehension with AR Smart Glass" was accepted as a demo paper at COMSNETS 2023.</span>
+    </li>
+    <li>
+      <strong>Jun 2022</strong>
+      <span class="description">Our Paper titled, "SoftSkip: Empowering Multi-Modal Dynamic Pruning for Single-Stage Referring Comprehension" was accepted to ACM Multimedia 2022.</span>
+    </li>
+    <li>
+      <strong>Jun 2022</strong>
+      <span class="description">Our Paper titled, "COSM2IC: Optimizing Real-time Multi-Modal Instruction Comprehension" was accepted to IROS 2022.</span>
+    </li>
+  </ul>
+</body>
 
-<tr> 
-   <td> <b>June 2022 </b> </td>
-   <td> Our Paper titled, "COSM2IC: Optimizing Real-time Multi-Modal Instruction Comprehension" was accepted to IROS 2022. </td>
-  </tr>
-
- </table>
