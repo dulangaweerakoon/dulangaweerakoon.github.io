@@ -95,7 +95,7 @@ Studied at
       display: flex;
     }
     .image-container img {
-      width: 200px; /* Set the width of each image as desired */
+      width: 50px; /* Set the width of each image as desired */
       margin-right: 10px; /* Add some spacing between the images */
     }
 </style>
@@ -106,32 +106,17 @@ Studied at
 
 Worked at
 ===
-<style> 
-    .image-container {
-      display: flex;
-    }
-    .image-container img {
-      width: 200px; /* Set the width of each image as desired */
-      margin-right: 10px; /* Add some spacing between the images */
-    }
-</style>
+
 <div class="image-container">
     <img src="images/Astar.png " alt="Astar">
     <img src="images/SMU.png" alt="SMU">
+    <img src="images/synopsys.jpg" alt="synopsys">
     <img src="images/UoM.jpeg" alt="University of Moratuwa">
   </div>
 
 Collaborated with
 ===
-<style> 
-    .image-container {
-      display: flex;
-    }
-    .image-container img {
-      width: 200px; /* Set the width of each image as desired */
-      margin-right: 10px; /* Add some spacing between the images */
-    }
-</style>
+
 <div class="image-container">
     <img src="images/MIT.png " alt="MIT">
     <img src="images/Astar.png " alt="Astar">
