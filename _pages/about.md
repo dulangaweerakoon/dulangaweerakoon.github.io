@@ -54,8 +54,22 @@ News
     .bullet-list li:last-child {
       margin-bottom: 0;
     }
+
+        .image-container {
+      display: flex;
+    }
+    .image-container img {
+      width: 200px; /* Set the width of each image as desired */
+      margin-right: 10px; /* Add some spacing between the images */
+    }
   </style>
 <body>
+<div class="image-container">
+    <img src="images/UoM.jpeg" alt="University of Moratuwa">
+    <img src="image2.jpg" alt="Image 2">
+    <img src="image3.jpg" alt="Image 3">
+    <img src="image4.jpg" alt="Image 4">
+  </div>
   <ul class="bullet-list">
     <li>
       <strong>Jul 2023</strong>
