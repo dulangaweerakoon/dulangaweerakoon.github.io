@@ -95,7 +95,7 @@ Studied at
       display: flex;
     }
     .image-container img {
-      width: 50px; /* Set the width of each image as desired */
+      width: 100px; /* Set the width of each image as desired */
       margin-right: 10px; /* Add some spacing between the images */
     }
 </style>
