@@ -16,6 +16,22 @@ My primary research interests revolve around multi-modal sensing for Human-AI Co
 <p style="text-align: justify;">
 Prior to embarking on my PhD journey, I earned a Bachelors's degree in Electronics and Telecommunication Engineering from the esteemed University of Moratuwa, Sri Lanka. Following that, I spent a year as a Research Engineer at Singapore Management University, where I worked under the mentorship of Prof. Archan Misra. </p>
 
+<style> 
+    .image-container {
+      display: flex;
+    }
+    .image-container img {
+      width: 200px; /* Set the width of each image as desired */
+      margin-right: 10px; /* Add some spacing between the images */
+    }
+</style>
+<div class="image-container">
+    <img src="images/UoM.jpeg" alt="University of Moratuwa">
+    <img src="images/UIUC.png" alt="University of Illinois Urbana-Champaign">
+    <img src="images/SMU.png" alt="SMU">
+    <img src="image/MIT.png " alt="MIT">
+    <img src="image/Astar.png " alt="Astar">
+  </div>
 
 News
 ===
@@ -55,21 +71,8 @@ News
       margin-bottom: 0;
     }
 
-        .image-container {
-      display: flex;
-    }
-    .image-container img {
-      width: 200px; /* Set the width of each image as desired */
-      margin-right: 10px; /* Add some spacing between the images */
-    }
   </style>
 <body>
-<div class="image-container">
-    <img src="images/UoM.jpeg" alt="University of Moratuwa">
-    <img src="image2.jpg" alt="Image 2">
-    <img src="image3.jpg" alt="Image 3">
-    <img src="image4.jpg" alt="Image 4">
-  </div>
   <ul class="bullet-list">
     <li>
       <strong>Jul 2023</strong>
