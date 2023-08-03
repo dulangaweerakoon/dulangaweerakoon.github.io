@@ -84,6 +84,10 @@ News
   </ul>
 </body>
 
+
+
+
+
 Studied at
 ===
 <style> 
@@ -114,7 +118,6 @@ Worked at
 <div class="image-container">
     <img src="images/Astar.png " alt="Astar">
     <img src="images/SMU.png" alt="SMU">
-    <img src="images/synopsys.jpg" alt="Synopsys">
     <img src="images/UoM.jpeg" alt="University of Moratuwa">
   </div>
 
