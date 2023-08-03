@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dulanga Weerakoon"
   avatar           : "profilepic.jpg"
-  bio              : "PhD Student at SMU, School of Computing and Information Systems, Singapore"
+  bio              : "Enrolled as a PhD student at SMU, School of Computing and Information Systems in Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=WK3bdIwAAAAJ&hl=en"
-  email            :
+  email            : "mweerakoon.2019@phdcs.smu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

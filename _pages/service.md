@@ -23,7 +23,7 @@ author_profile: true
 
   <b>Supervision</b>
   <ul class="bullet-list">
+     <li>Atharv Mane - BE, Computer Science - Birla Institute of Technology and Science, Pilani- Goa Campus - Final year Thesis Project   (2023-Present)</li>
     <li>HongMeng Tan - Nanyang Polytechnic - Visiting Research Student at SMU  (March 2019-May 2019)</li>
-    <li>Atharv Mane - BE, Computer Science - Birla Institute of Technology and Science, Pilani- Goa Campus - Final year Thesis Project   (2023-Present)</li>
   </ul>
 </body>
