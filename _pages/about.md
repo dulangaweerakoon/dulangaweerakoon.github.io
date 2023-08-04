@@ -96,30 +96,24 @@ News
       margin-top: 20px; /* Add 20px space above the headings */
     }
 </style>
-<div>
+
   <h2>Studied at</h2>
   <div class="image-container">
-    <img src="images/SMU.png" alt="SMU">
-    <img src="images/uom.jpeg" alt="uom">
+    <img src="images/studied.png" alt="studiedat">
   </div>
-</div>
 
-<div>
+
+
   <h2>Worked at</h2>
   <div class="image-container">
-    <img src="images/Astar.png " alt="Astar">
-    <img src="images/SMU.png" alt="SMU">
-    <img src="images/synopsys.png" alt="synopsys"> 
-    <img src="images/uom.jpeg" alt="uom">
+    <img src="images/worked.png" alt="workedat">
   </div>
-</div>
 
-<div>
+
+
   <h2>Collaborated with</h2>
   <div class="image-container">
-    <img src="images/MIT.png " alt="MIT">
-    <img src="images/Astar.png " alt="Astar">
-    <img src="images/UIUC.png" alt="University of Illinois Urbana-Champaign">
+    <img src="images/collaborated.png " alt="collaborated">
   </div>
-</div>
+
 
