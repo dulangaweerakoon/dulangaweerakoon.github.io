@@ -100,6 +100,7 @@ News
   <h2>Studied at</h2>
   <div class="image-container">
     <img src="images/SMU.png" alt="SMU">
+    <img src="images/uom.jpeg" alt="uom">
   </div>
 </div>
 
@@ -109,6 +110,7 @@ News
     <img src="images/Astar.png " alt="Astar">
     <img src="images/SMU.png" alt="SMU">
     <img src="images/synopsys.png" alt="synopsys"> 
+    <img src="images/uom.jpeg" alt="uom">
   </div>
 </div>
 
