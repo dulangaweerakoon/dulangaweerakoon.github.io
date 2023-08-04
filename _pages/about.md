@@ -101,7 +101,7 @@ Studied at
 </style>
 <div class="image-container">
     <img src="images/SMU.png" alt="SMU">
-    <img src="images/UoM.jpeg" alt="University of Moratuwa">
+    <img src="images/UOM.webp" alt="University of Moratuwa">
   </div>
 
 Worked at
@@ -111,7 +111,7 @@ Worked at
     <img src="images/Astar.png " alt="Astar">
     <img src="images/SMU.png" alt="SMU">
     <img src="images/synopsys.jpg" alt="synopsys">
-    <img src="images/UoM.jpeg" alt="University of Moratuwa">
+    <img src="images/UOM.webp" alt="University of Moratuwa">
   </div>
 
 Collaborated with
