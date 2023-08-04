@@ -89,7 +89,7 @@ News
       display: flex;
     }
     .image-container img {
-      width: 100px; /* Set the width of each image as desired */
+      width: 300px; /* Set the width of each image as desired */
       margin-right: 12px; /* Add some spacing between the images */
     }
     h2 {
@@ -103,12 +103,10 @@ News
   </div>
 
 
-
   <h2>Worked at</h2>
   <div class="image-container">
     <img src="images/worked.png" alt="workedat">
   </div>
-
 
 
   <h2>Collaborated with</h2>
