@@ -110,7 +110,6 @@ Worked at
 <div class="image-container">
     <img src="images/Astar.png " alt="Astar">
     <img src="images/SMU.png" alt="SMU">
-    <img src="images/SYNOPSYS.webp" alt="Synopsys">
     <img src="images/UOM.webp" alt="University of Moratuwa">
   </div>
 
