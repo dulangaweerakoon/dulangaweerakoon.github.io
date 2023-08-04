@@ -84,40 +84,40 @@ News
   </ul>
 </body>
 
-
-
-
-
-Studied at
-===
 <style> 
     .image-container {
       display: flex;
     }
     .image-container img {
       width: 100px; /* Set the width of each image as desired */
-      margin-right: 10px; /* Add some spacing between the images */
+      margin-right: 12px; /* Add some spacing between the images */
+    }
+    h2 {
+      margin-top: 20px; /* Add 20px space above the headings */
     }
 </style>
-<div class="image-container">
+<div>
+  <h2>Studied at</h2>
+  <div class="image-container">
     <img src="images/SMU.png" alt="SMU">
-    <img src="images/UOM.webp" alt="University of Moratuwa">
   </div>
+</div>
 
-Worked at
-===
-
-<div class="image-container">
+<div>
+  <h2>Worked at</h2>
+  <div class="image-container">
     <img src="images/Astar.png " alt="Astar">
     <img src="images/SMU.png" alt="SMU">
-    <img src="images/UOM.webp" alt="University of Moratuwa">
+    <img src="images/synopsys.png" alt="synopsys"> 
   </div>
+</div>
 
-Collaborated with
-===
-
-<div class="image-container">
+<div>
+  <h2>Collaborated with</h2>
+  <div class="image-container">
     <img src="images/MIT.png " alt="MIT">
     <img src="images/Astar.png " alt="Astar">
     <img src="images/UIUC.png" alt="University of Illinois Urbana-Champaign">
   </div>
+</div>
+
