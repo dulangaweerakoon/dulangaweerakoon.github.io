@@ -18,7 +18,7 @@ author_profile: true
 <body>
   <b>Reviews</b>
   <ul class="bullet-list">
-    <li>ACM Multimedia student mentor</li>
+    <li>Reviewer for ACM Multimedia</li>
   </ul>
 
   <b>Supervision</b>
