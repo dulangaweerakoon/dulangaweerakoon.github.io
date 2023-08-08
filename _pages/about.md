@@ -84,12 +84,10 @@ News
   </ul>
 </body>
 
-
   <style>
     .image-container {
       display: flex;
       align-items: center;
-      margin-top: 25px; /* Add 25px gap between headline and images */
     }
     .image-container h2 {
       margin-right: 15px; /* Add some space to the right of the headline */
@@ -100,12 +98,12 @@ News
       margin-right: 10px; /* Add some spacing between the images */
     }
   </style>
-</head>
+
 <body>
   <h2>Education</h2>
   <div class="image-container">
-    <img src="images/SMU.webp" alt="SMU">
-    <img src="images/UoM.jpeg" alt="UoM">
+    <img src="images/SMU.webp" alt="Singapore Management University">
+    <img src="images/UOM.jpeg" alt="University of Moratuwa">
   </div>
 </body>
 <style>
