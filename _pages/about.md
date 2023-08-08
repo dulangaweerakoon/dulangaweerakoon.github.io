@@ -84,34 +84,85 @@ News
   </ul>
 </body>
 
-<style> 
+
+  <style>
     .image-container {
       display: flex;
+      align-items: center;
+      margin-top: 25px; /* Add 25px gap between headline and images */
+    }
+    .image-container h2 {
+      margin-right: 15px; /* Add some space to the right of the headline */
     }
     .image-container img {
-      width: 300px; /* Set the width of each image as desired */
-      margin-right: 12px; /* Add some spacing between the images */
+      width: 200px; /* Set the width of each image */
+      height: 150px; /* Set the height of each image */
+      margin-right: 10px; /* Add some spacing between the images */
     }
-    h2 {
-      margin-top: 20px; /* Add 20px space above the headings */
+  </style>
+</head>
+<body>
+  <h2>Education</h2>
+  <div class="image-container">
+    <img src="images/SMU.webp" alt="SMU">
+    <img src="images/UoM.jpeg" alt="UoM">
+  </div>
+</body>
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
     }
-</style>
+    .bullet-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      max-height: 300px; /* Set the maximum height for the scrollable list */
+      overflow-y: auto; /* Add vertical scroll when list exceeds max height */
+    }
+    .bullet-list li {
+      display: flex; /* Use flexbox layout */
+      margin-bottom: 15px;
+    }
+    .bullet-list li strong {
+      font-weight: bold;
+      min-width: 100px;
+      margin-right: 100px; /* Increased indentation for the date */
+    }
+    .bullet-list li .description {
+      flex: 1; /* Expand to fill remaining space */
+      margin-top: 5px;
+      margin-left: 25px; /* Increased indentation for the description */
+      min-width: 300px; /* Adjust the min-width based on the longest description text */
+    }
+    .bullet-list li:last-child {
+      margin-bottom: 0;
+    }
+  </style>
+<body>    
+  <ul class="bullet-list">
+    <li>
+        <span class="description">
+          <b>SINGAPORE MANAGEMENT UNIVERSITY, SINGAPORE</b><br>
+          DOCTOR OF PHILOSOPHY (PHD), COMPUTER SCIENCE<br>
+          Specialisation: Human AI Collaboration<br>
+          Thesis (Tentative): Enabling and Optimizing Multi-Modal Sense-Making for Human-AI Interaction Tasks<br>
+          Supervisor: Prof. Archan Misra<br>
+          Co-Supervisor : Dr. Vigneshwaran Subbaraju
+        </span>
+        <strong>August 2019 - Present</strong>
+      </li>
+      <li>
+        <span class="description">
+          <b>UNIVERSITY OF MORATUWA, SRI LANKA</b><br>
+          BACHELOR OF SCIENCE HONOURS (BSc(Hons)) IN ENGINEERING<br>
+          Specialisation: Electronics and Telecommunication Engineering<br>
+          Thesis : People Counting and Tracking with Xilinx ZC702 Kits<br>
+          Supervisor:Dr. Ranga Rodrigo <br>
+          Co-Supervisor : Dr. Ajith Pasquel
+        </span>
+        <strong>January 2017 - January 2018</strong>
+      </li>
 
-  <h2>Studied at</h2>
-  <div class="image-container">
-    <img src="images/studied.png" alt="studiedat">
-  </div>
-
-
-  <h2>Worked at</h2>
-  <div class="image-container">
-    <img src="images/worked.png" alt="workedat">
-  </div>
-
-
-  <h2>Collaborated with</h2>
-  <div class="image-container">
-    <img src="images/collaborated.png " alt="collaborated">
-  </div>
 
 
