@@ -131,7 +131,7 @@ News
       flex: 1; /* Expand to fill remaining space */
       margin-top: 5px;
       margin-left: 25px; /* Increased indentation for the description */
-      min-width: 300px; /* Adjust the min-width based on the longest description text */
+      /* min-width: 300px; /* Adjust the min-width based on the longest description text */
     }
     .bullet-list li:last-child {
       margin-bottom: 0;
