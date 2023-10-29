@@ -57,6 +57,10 @@ News
   </style>
 <body>
   <ul class="bullet-list">
+      <li>
+      <strong>Oct 2023</strong>
+      <span class="description">Our Paper titled, "VGGlass - Demonstrating Visual Grounding and Localization Synergy with a LiDAR-enabled Smart-Glass" was accepted as a demo paper at ACM SenSys 2023.</span>
+    </li>
     <li>
       <strong>Jul 2023</strong>
       <span class="description">I was offered Presidential Doctoral Fellowship in Computing at SMU, which is provided to exceptionally qualified students at SMU based on their research outcomes.</span>
