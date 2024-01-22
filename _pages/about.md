@@ -106,8 +106,8 @@ News
 <body>
   <h2>Education</h2>
   <div class="image-container">
-    <img src="https://dulangaweerakoon.com/images/SMU.png" alt="Singapore Management University">
-    <img src="https://dulangaweerakoon.com/images/UOM.jpeg" alt="University of Moratuwa">
+    <img src="https://dulangaweerakoon.com/images/SMU.webp" alt="Singapore Management University">
+    <img src="https://dulangaweerakoon.com/images/UOM.png" alt="University of Moratuwa">
   </div>
 </body>
 <style>
