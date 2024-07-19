@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in Computer Science, conducting research under the guidance of Prof. Archan Misra and co-advised by Dr. Vigneshwaran Subbaraju at the School of Computing and Information Systems, Singapore Management University (SMU). Currently, I hold the position of PhD Research Intern at IHPC, A*STAR Singapore.
+I am a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology (SMART), MIT's research center in Singapore, established in collaboration with the National Research Foundation of Singapore. I work under the supervision of Prof. Sanjay Sarma and Prof. Archan Misra as part of the Mens, Manus, and Machine (M3S) program.
+
+My primary research interests focus on multi-modal sensing for Human-AI Collaboration on pervasive devices, emphasizing low energy consumption, minimal latency, and efficient computational requirements. Currently, I am developing human instruction comprehension algorithms that process input from various modalities, including vision, language, and human gestures. I have proposed several fusion techniques and optimization strategies to enhance instruction comprehension accuracy while reducing latency and energy overheads, making them suitable for resource-constrained pervasive devices.
+
+I earned my PhD in Computer Science from the School of Computing and Information Systems at Singapore Management University (SMU), under the supervision of Prof. Archan Misra and co-supervision of Dr. Vigneshwaran Subbaraju.
+<!-- I am a fifth-year PhD student in Computer Science, conducting research under the guidance of Prof. Archan Misra and co-advised by Dr. Vigneshwaran Subbaraju at the School of Computing and Information Systems, Singapore Management University (SMU). Currently, I hold the position of PhD Research Intern at IHPC, A*STAR Singapore.
 
 
 My primary research interests revolve around multi-modal sensing for Human-AI Collaboration on pervasive devices, with a strong emphasis on achieving low energy consumption, minimal latency, and efficient computational requirements. Specifically, my current focus lies in the development of human instruction comprehension algorithms capable of processing input from diverse modalities such as vision, language, and human gestures. To this end, I have proposed various fusing techniques and optimization strategies that aim to leverage these modalities to enhance instruction comprehension accuracy and concurrently reduce latency and energy overheads, making them suitable for resource-constrained pervasive devices. 
 
 
-Prior to embarking on my PhD journey, I earned a Bachelors's degree in Electronics and Telecommunication Engineering from the esteemed University of Moratuwa, Sri Lanka. Following that, I spent a year as a Research Engineer at Singapore Management University, where I worked under the mentorship of Prof. Archan Misra. 
+Prior to embarking on my PhD journey, I earned a Bachelors's degree in Electronics and Telecommunication Engineering from the esteemed University of Moratuwa, Sri Lanka. Following that, I spent a year as a Research Engineer at Singapore Management University, where I worked under the mentorship of Prof. Archan Misra.  -->
 
 News
 ===
@@ -57,6 +62,14 @@ News
   </style>
 <body>
   <ul class="bullet-list">
+          <li>
+      <strong>May 2024</strong>
+      <span class="description">I successfully defended my PhD thesis titled, "Enabling and Optimizing Multi-Modal Sense-Making for Human-AI Interaction Tasks".</span>
+    </li>
+        <li>
+      <strong>April 2024</strong>
+      <span class="description">Our Paper titled, "Towards Efficient Spatio-Temporal Video Grounding in Pervasive Mobile Devices" was accepted as a poster paper at ACM MobiSys 2024.</span>
+    </li>
       <li>
       <strong>Oct 2023</strong>
       <span class="description">Our Paper titled, "VGGlass - Demonstrating Visual Grounding and Localization Synergy with a LiDAR-enabled Smart-Glass" was accepted as a demo paper at ACM SenSys 2023.</span>
