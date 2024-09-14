@@ -56,6 +56,10 @@ News
 <body>
   <ul class="bullet-list">
           <li>
+      <strong>Sept 2024</strong>
+      <span class="description">Our Paper titled, "CAS: Fusing DNN Optimization & Adaptive Sensing for Energy-Efficient Multi-Modal Inference" was accepted Robotics and Automation Letters (RA-L). I will be presenting this work at ICRA 2025.</span>
+    </li>
+          <li>
       <strong>May 2024</strong>
       <span class="description">I successfully defended my PhD thesis titled, "Enabling and Optimizing Multi-Modal Sense-Making for Human-AI Interaction Tasks".</span>
     </li>
