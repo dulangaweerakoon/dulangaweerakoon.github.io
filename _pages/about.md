@@ -55,6 +55,10 @@ News
   </style>
 <body>
   <ul class="bullet-list">
+              <li>
+      <strong>Oct 2024</strong>
+      <span class="description">Our Paper titled, "NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding" was accepted to WACV 2025.</span>
+    </li>
           <li>
       <strong>Sept 2024</strong>
       <span class="description">Our Paper titled, "CAS: Fusing DNN Optimization & Adaptive Sensing for Energy-Efficient Multi-Modal Inference" was accepted Robotics and Automation Letters (RA-L). I will be presenting this work at ICRA 2025.</span>
