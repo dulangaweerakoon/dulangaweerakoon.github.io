@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4542934905310078"
+     crossorigin="anonymous"></script>
+
 I am a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology (SMART), MIT's research center in Singapore, established in collaboration with the National Research Foundation of Singapore. I work under the supervision of Prof. Sanjay Sarma and Prof. Archan Misra as part of the Mens, Manus, and Machine (M3S) program.
 
 My primary research interests focus on multi-modal sensing for Human-AI Collaboration on pervasive devices, emphasizing low energy consumption, minimal latency, and efficient computational requirements. Currently, I am developing human instruction comprehension algorithms that process input from various modalities, including vision, language, and human gestures. I have proposed several fusion techniques and optimization strategies to enhance instruction comprehension accuracy while reducing latency and energy overheads, making them suitable for resource-constrained pervasive devices.
