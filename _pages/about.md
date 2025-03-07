@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4542934905310078"
-     crossorigin="anonymous"></script>
+     crossorigin="anonymous"></script>  
 
 I am a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology (SMART), MIT's research center in Singapore, established in collaboration with the National Research Foundation of Singapore. I work under the supervision of Prof. Sanjay Sarma and Prof. Archan Misra as part of the Mens, Manus, and Machine (M3S) program.
 
@@ -58,6 +58,10 @@ News
   </style>
 <body>
   <ul class="bullet-list">
+                <li>
+      <strong>Mar 2025</strong>
+      <span class="description">Our Paper titled, "Ges3ViG : Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding" was accepted to CVPR 2025.</span>
+    </li>
               <li>
       <strong>Oct 2024</strong>
       <span class="description">Our Paper titled, "NeuroViG - Integrating Event Cameras for Resource-Efficient Video Grounding" was accepted to WACV 2025.</span>
