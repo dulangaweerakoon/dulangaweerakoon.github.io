@@ -59,7 +59,7 @@ News
 <body>
   <ul class="bullet-list">
                 <li>
-      <strong>Mar 2025</strong>
+      <strong>March 2025</strong>
       <span class="description">Our Paper titled, "Ges3ViG : Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding" was accepted to CVPR 2025.</span>
     </li>
               <li>
